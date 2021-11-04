@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(238, 255, 245);
+}
+
+.borde__columna{
+    border-radius: 5px;
+    border: 1px rgb(13, 26, 49)
+
+}
+.navbar-brand{
+    font-size: 5.25rem;
+
+}
+
+.col-md-12{
+    padding: 15px;
+}
