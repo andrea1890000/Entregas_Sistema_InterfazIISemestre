@@ -1,17 +1,73 @@
 body{
-    background-color: rgb(238, 255, 245);
+    background-color: rgb(217 217 217 / 80%);
 }
 
 .borde__columna{
+    font-family: 'Source Code Pro', monospace;
+    color: rgb(22, 22, 22);
     border-radius: 5px;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
     border: 1px rgb(13, 26, 49)
 
+
+}
+
+.fixed-top{
+    opacity: 0.9;
+}
+
+.w-100{
+    padding: 10px;
 }
 .navbar-brand{
-    font-size: 5.25rem;
+    font-size: 5.06rem;
 
 }
 
-.col-md-12{
+.col-12{
+    font-family: 'Source Code Pro', monospace;
     padding: 15px;
+    color: rgb(22, 22, 22);
+    text-align: center;
+    font-size: 45px;
+  
+}
+
+.col-11{
+    font-family: 'Source Code Pro', monospace;
+    padding: 15px;
+    color: rgb(22, 22, 22);
+    text-align: center;
+    font-size: 15px;
+    margin: 20px;
+}
+
+.col-13{
+    font-family: 'Source Code Pro', monospace;
+    padding: 15px;
+    color: rgb(22, 22, 22);
+    font-size: 35px;
+    margin: 20px;
+
+}
+
+.col-15{
+    font-family: 'Source Code Pro', monospace;
+    padding: 15px;
+    color: rgb(22, 22, 22);
+    font-size: 15px;
+    margin: 20px;
+
+
+}
+img {
+    width: 360px;
+}
+
+ol, ul{
+    font-family: 'Source Code Pro', monospace;
+    padding-left: 15rem;
+    font-size: 20px;
 }
