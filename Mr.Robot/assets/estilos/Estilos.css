@@ -19,18 +19,36 @@
 }
 .navbar-toggler{
 
-    width: 10%;
-    height: 30%;
+    width: 5%;
     padding: 1%;
     
 
 }
+
+.Fondotemporada1{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.fondohome{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
     
 
 .container{
-    background-color: rgba(0, 0, 0, 0.753);
+    background-color: rgba(0, 0, 0, 0.829);
 }
 
+.temporada1{
+    border: rgb(0, 0, 0) 1px dotted;
+    width: 300%;
+    max-width: 350px;
+    text-align: center;
+
+}
 
 .vr{
     color: blanchedalmond;
