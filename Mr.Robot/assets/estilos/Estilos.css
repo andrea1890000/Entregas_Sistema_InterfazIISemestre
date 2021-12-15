@@ -144,9 +144,9 @@ ol, ul{
     display: flex;
     flex-flow: row wrap;
     padding: 50px;
-    color: rgb(14, 14, 14);
+    color: rgb(161, 161, 161);
     font-family: 'Titillium Web', sans-serif;
-    background-color: rgb(8, 8, 8);
+    background-color: rgba(0, 0, 0, 0.829);
     }
     
     .footer > * {
@@ -285,9 +285,9 @@ ol, ul{
         }
 
         .play{
-            width:200%;
-            max-width:250%;
-            margin: -20px;
+            width:50%;
+            max-width:50%;
+            margin: -10px;
         }
         
         .Intro{
