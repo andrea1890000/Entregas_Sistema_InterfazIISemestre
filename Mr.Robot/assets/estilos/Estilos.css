@@ -18,9 +18,11 @@
     border: 1px rgb(13, 26, 49)
 }
 .navbar-toggler{
+
+    width: 10%;
+    height: 30%;
+    padding: 1%;
     
-    display: block;
-    margin-left: auto;
 
 }
     
@@ -28,10 +30,7 @@
 .container{
     background-color: rgba(0, 0, 0, 0.753);
 }
-.Logo{
-    width: 30%;
 
-}
 
 .vr{
     color: blanchedalmond;
